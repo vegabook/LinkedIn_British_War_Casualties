@@ -1,5 +1,3 @@
-==Plots British war casualties over past 200 years
-
 ![background](images/plotmen.png.gif#gh-dark-mode-only)
 ![background](images/plotmen.png#gh-light-mode-only)
 

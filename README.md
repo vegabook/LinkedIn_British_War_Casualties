@@ -5,4 +5,4 @@
 
 * Requires R and libraries xts, rColorBrewer, ggplot2, scales.
 * Nix users: contains flake for to install R and dependencies (optional). 
-* `source ("plotmen.R")` will create the plot and save it as plotmen.png in images directory, and will display it in this README.md (refresh page). 
+* `source ("plotmen.R")` will create the plot and save it as plotmen.png in images directory.

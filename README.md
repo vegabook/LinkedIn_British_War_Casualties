@@ -1,7 +1,7 @@
-== Plots British war casualties over past 200 years
+==Plots British war casualties over past 200 years
 
 ![background](images/plotmen.png.gif#gh-dark-mode-only)
-![background](images/plotmen.gif#gh-light-mode-only)
+![background](images/plotmen.png#gh-light-mode-only)
 
 * Requires R and libraries xts, rColorBrewer, ggplot2, scales.
 * Nix users: contains flake for to install R and dependencies (optional). 

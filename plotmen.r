@@ -48,7 +48,7 @@ ggg <- ggg + ggtitle("British War Casualties 1740-2026") +
   theme(plot.title = element_text(size = 18, hjust = 0))
 
 # save the plot to images directory
-ggsave("images/plotmen.png", plot = ggg, width = 10, height = 6)
+ggsave("images/plotmen.png", plot = ggg, width = 10, height = 9)
 
 
 
